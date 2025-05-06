@@ -1,1 +1,0 @@
-To run, execute: gradle clean build run
