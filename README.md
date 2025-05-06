@@ -3,10 +3,10 @@
 Find each of the following projects in their associated folders.
 
 **Machine Learning (ML) and AI** 
-- Reef bleaching<sup>1</sup>: A report that implements and evaluates Random Forest, k-Nearest Neighbour, and Support Vector Machine models in R.
+- Reef bleaching<sup>1</sup>: Implementing and evaluating Random Forest, k-Nearest Neighbour, and Support Vector Machine models in R.
 The models use reef measurements to predict coral bleaching.
 Includes interactive graphs using plotly.
-- Body Fat Regression Model<sup>1, 2</sup>: A report that tunes, implements, and evaluates a multiple linear regression model in R.
+- Body Fat Regression Model<sup>1, 2</sup>: Tuning, implementing and evaluating a multiple linear regression model in R.
 The model uses bodily measurements to predict body fat percentage.
 - kNN and NB <sup>1</sup>: Implementing and evaluating kNN & Naïve Bayes models in Python.
 The models use bodily measurements to predict diabetes, and sensor data to predict room occupancy.
