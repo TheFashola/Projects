@@ -1,9 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: sentence
----
-
 # Projects
 
 Find each of the following projects in their associated folders.
@@ -27,3 +21,5 @@ Uses HTML, CSS, JS, SQL and Java.
 
 **Games**
 - Pacman<sup>1</sup>: Implementation of the Pacman game in Java, using a JavaFX GUI and Gradle.
+
+1. Completed as part of a unit of study at the University of Sydney. 2. A group project
