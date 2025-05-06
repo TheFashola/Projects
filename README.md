@@ -1,10 +1,29 @@
--   **Reef Bleaching**: ML Models + interactive graphs that predict coral reef bleaching, using R, as part of DATA3888 in Semester 1, 2025.
--   **Stocks**: ML Models that use order book data to predict volatility, using R, as part of DATA3888 in Semester 1, 2025.
--   **Pacman**: Pacman game in Java, using Gradle and JavaFX, and featuring 7 GoF design patterns, as part of SOFT2201 in Semester 2, 2024.
--   **Scroll database**: (Group project) Scroll management system, using Java, SQL, and CI/CD tools, as part of SOFT2412 in Semester 2, 2024.
--   **Body Fat Regression Model**: (Group project) body fat regression model in R/Quatro, as part of DATA2002 in Semester 2, 2024.
--   **Airports**: Airport management system, using HTML/CSS/JS, SQL, and Python/Flask, as part of ISYS2120 in Semester 2, 2024.
--   **Messenger**: Secure web-based P2P messenger featuring HTML,CSS,JS and Python, as part of the INFO2222 unit of study in Semester 1, 2024.
--   **kNN and NB**: Implementation and evaluation of AI algorithms K-nearest neighbour and Naïve Bayes in Python, as part of the COMP3308 unit of study in Semester 1, 2024.
--   **JAFR**: Bash reminder system in Python, as part of the INFO1112 unit of study in Semester 2, 2023.
--   **NXDMN**: Mock DNS in Python, as part of the INFO1112 unit of study in Semester 2, 2023.
+---
+editor_options: 
+  markdown: 
+    wrap: sentence
+---
+
+# Projects
+
+Find each of the following projects in their associated folders.
+
+**Machine Learning (ML) and AI** 
+- Reef bleaching<sup>1</sup>: A report that implements and evaluates Random Forest, k-Nearest Neighbour, and Support Vector Machine models in R.
+The models use reef measurements to predict coral bleaching.
+Includes interactive graphs using plotly.
+- Body Fat Regression Model<sup>1, 2</sup>: A report that tunes, implements, and evaluates a multiple linear regression model in R.
+The model uses bodily measurements to predict body fat percentage.
+- kNN and NB <sup>1</sup>: Implementing and evaluating kNN & Naïve Bayes models in Python.
+The models use bodily measurements to predict diabetes, and sensor data to predict room occupancy.
+
+**Full-stack apps & websites** 
+- Scroll database<sup>1, 2</sup>: Java-based text file management app, that allows multiple users to add, delete, copy, and edit files.
+Uses a supabase SQL server, and is complete with a JavaFX GUI.
+- Airports<sup>1</sup>: Python-based airport information website, that allows multiple users to add, delete, and edit airport details.
+Uses HTML, CSS, JS, Flask, and SQL.
+- Messenger<sup>1, 2</sup>: A messaging website, leveraging hashing and encryption to allow users to message each other securely.
+Uses HTML, CSS, JS, SQL and Java.
+
+**Games**
+- Pacman<sup>1</sup>: Implementation of the Pacman game in Java, using a JavaFX GUI and Gradle.
