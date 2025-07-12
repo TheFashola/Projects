@@ -10,6 +10,7 @@ Includes interactive graphs using plotly.
 The model uses bodily measurements to predict body fat percentage.
 - kNN and NB <sup>1</sup>: Implementing and evaluating kNN & Naïve Bayes models in Python.
 The models use bodily measurements to predict diabetes, and sensor data to predict room occupancy.
+- **Capstone Project** <sup>1</sup>: Implementing and evaluating 5 ML models to investigates coral reef resilience across the Great Barrier Reef (GBR) following the 2016 bleaching event.
 
 **Full-stack apps & websites** 
 - Scroll database<sup>1, 2</sup>: Java-based text file management app, that allows multiple users to add, delete, copy, and edit files.
